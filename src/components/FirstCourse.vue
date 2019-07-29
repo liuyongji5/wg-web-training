@@ -110,7 +110,6 @@
 
         .manager-content {
             background: #ffffff;
-            height: 500px;
             display: flex;
             justify-content: center;
             align-items: center;
