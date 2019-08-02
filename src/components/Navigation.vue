@@ -3,6 +3,8 @@
         <img src="../assets/logo.png"/>
         <h1>front end training</h1>
         <router-link to="/firstCourse">first course</router-link>
+        <br/>
+        <router-link to="/secondCourse">second course</router-link>
     </div>
 </template>
 
