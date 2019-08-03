@@ -6,6 +6,7 @@
         <flow-panel></flow-panel>
         <my-foot>
             <span>过去7天</span>
+            <img class="down-icon" src="../down-icon.png"/>
         </my-foot>
     </div>
 </template>
@@ -31,5 +32,11 @@
         border-radius: 4px;
         box-shadow: 0 0 10px 0 rgba(191, 197, 206, 0.4);
         background-color: #ffffff;
+
+        .down-icon {
+            width: 14px;
+            height: 10px;
+            margin-left: 4px;
+        }
     }
 </style>

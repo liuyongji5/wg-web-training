@@ -80,7 +80,7 @@
         .panel-header {
             display: flex;
             margin-top: 16px;
-
+            color: #737373;
             .day {
                 width: 38px;
                 height: 17px;
@@ -106,6 +106,7 @@
 
         .panel-time {
             width: 37px;
+            color: #737373;
             .time {
                 margin-top: 5px;
                 height: 25px;
@@ -132,6 +133,7 @@
                 font-size: 12px;
                 justify-content: space-between;
                 width: 295px;
+                color: #737373;
                 .number {
                     &.margin-left-15 {
                         margin-left: 15px;
